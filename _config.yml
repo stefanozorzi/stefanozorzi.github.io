@@ -51,7 +51,7 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false         # you can change this if you feel like it
+  hard_wrap: true         # you can change this if you feel like it
   parse_block_html: true    # allow parsing html inside markdown
 
 # Build settings
