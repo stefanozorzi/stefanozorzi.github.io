@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="lead pretty-links">
+  Hi! This is my blog. Here I write stuff I think about. Some of them are longer and more thought through (which doesn't make them flawless). Others are just short thoughts I get once in a while. 
+</div>
+
+<header class="page-header">
+    <h1 class="page-title">Recent posts</h1>
+  </header>
+
+<div class="blog-index">  
+    {% for post in site.posts offset: 0 limit: 2 %}
+      {% assign content = post.content %}
+  		{% include post_detail.html %}
+      {% endfor %}
+
+</div>
