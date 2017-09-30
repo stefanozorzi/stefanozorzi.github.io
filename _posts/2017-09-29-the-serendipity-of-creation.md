@@ -14,6 +14,32 @@ On the spot, I hesitated. There is probably no “single thing”, but a combina
 ```At a closer look, though, it is more like many small streams flowing into the same larger river. There is one big thread connecting these difference sources. It has to do with the realisation that creative acts require the ability to fully abandon oneself to the process.```
 
 
+	<ul class="post-list">
+	<li class="post">
+	<h4 class="entry-title">
+	{% if page.title %}
+	    <a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
+	{% endif %}
+	{% if post.title %}
+	    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+	{% endif %}
+	</h4>
+	<p class="post-excerpt">{{ post.excerpt }}</p>
+	 {% capture content_words %} 
+	      {{ post.content | number_of_words }} 
+	    {% endcapture %} 
+	    {% capture excerpt_words %} 
+	      {{ post.excerpt | number_of_words }} 
+	    {% endcapture %} 
+	    {% if excerpt_words != content_words %}
+	    <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Continue reading <i class="fa fa-arrow-circle-right"></i></a>
+	    </p>
+	    {% endif %}
+	</li>
+	</ul>
+	<!--<div class="entry-content">{{ content }}</div>-->
+
+
 <!–break–> 
 
 ## Action and attachment 
