@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-subtitle: About
-desc: About me.
+title: About me
+subtitle: About me
+desc: About me
 permalink: /about/
 ---
 
