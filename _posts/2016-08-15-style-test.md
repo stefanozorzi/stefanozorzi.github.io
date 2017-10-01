@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Full and Comprehensive Style Test"
-desc: "Test post for style"
+description: "Test post for style"
 date: 2016-08-15
 tags: test, style
 comments: true
@@ -110,6 +110,6 @@ Maruku
 
 ### Standard code block
 
-	    <div id="awesome">
+    <div id="awesome">
       <p>This is great isn't it?</p>
     </div>

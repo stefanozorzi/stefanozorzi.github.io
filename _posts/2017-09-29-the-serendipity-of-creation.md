@@ -14,7 +14,7 @@ Somebody asked me a great question recently: “What’s the single most importa
 	end
 	{% endhighlight %}
 
-
+![Large example image](/assets/img/photo.jpg "Large example image")
 
 
 <!–break–> 
