@@ -10,7 +10,7 @@ In November 2008, with the financial crisis in full swing, Queen Elizabeth atten
 
 How could it be that no one among the smartest economists, commentators, and policymakers in all her kingdom – and beyond – had been able to see the formation of a bubble of such dimensions?
 
-![Illustration of The Emperor’s New Clothes by Vilhelm Pedersen, Andersen’s first illustrator](/assets/img/emperor.jpg "The Emperor's new clothes")
+![Illustration of The Emperor’s New Clothes by Vilhelm Pedersen, Andersen’s first illustrator]({{ site.baseurl }}/assets/img/emperor.jpg "The Emperor's new clothes")
 
 And yet critical facts were readily available – facts that could have warned about the craziness of the housing market, on which an even bigger financial house of cards had been erected. A short trip to a “regular” American neighbourhood – like the one undertaken by Mark Baum in The Big Short – would have presented an endless list of properties under foreclosure, real estate agents openly bragging about the laxity of credit requirements, and exotic dancers with multiple mortgage-financed properties[^1]. 
 
