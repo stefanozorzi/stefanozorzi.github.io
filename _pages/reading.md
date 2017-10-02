@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Reading
-subtitle: Stuff I am reading.
-desc: About me.
+subtitle: Reading now
+desc: 
 permalink: /reading/
 ---
 
@@ -21,33 +21,25 @@ permalink: /reading/
 
 ## Now reading
 
-- Perseus est
-- O Osiris accedat
-- Repetita usum
+- Paul Feyerabend, *[Against Method](https://www.amazon.co.uk/Against-Method-Feyerabend-Paul-Paperback/dp/B00M0SFZ6O/)* 
+- Svetlana Boym, *[The Future of Nostalgia](https://www.amazon.co.uk/Future-Nostalgia-Svetlana-Boym/dp/0465007082)*
+- Ken Liu, [*Invisible Planets*](https://www.amazon.co.uk/Invisible-Planets-Ken-Liu/dp/1786692783)
+- Karl Popper, [*Conjectures and Refutations*](https://www.amazon.co.uk/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941/)
 
 
 ## Recently finished
 
-- Perseus est
-- O Osiris accedat
-- Repetita usum
+- Keith Johnstone, *Impro*
+- Karl Popper, [*Unended Quest: an intellectual autobiography*](https://www.amazon.co.uk/Unended-Quest-Intellectual-Autobiography-Routledge/dp/0415285909)
+- Bertrand Russel, [*In Praise of Idleness*](https://www.amazon.co.uk/gp/product/0415325064/)
+- Rodney Stark, [*The Rise of Christianity*](https://www.amazon.co.uk/gp/product/0060677015)
+- Albert Camus, *The Myth of Sisyphus*
 
 
-## Bought but not started
+## Recently started but dropped
 
-- Perseus est
-- O Osiris accedat
-- Repetita usum
+- James Dale, Davidson, *The Sovereign Individual*
+- Geoffrey West, *Scale*
 
-## Dropped
+## Queued
 
-- Perseus est
-- O Osiris accedat
-- Repetita usum
-
-## All time favourites
-
-- Perseus est
-- O Osiris accedat
-- Repetita usum
-</div>
