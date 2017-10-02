@@ -63,7 +63,7 @@
 
 @include mq-up(sm) {
   .site-header {
-    margin: $spacer4 0 $spacer2;
+    margin: $spacer3 0 $spacer2;
   }
 
   .site-title {
@@ -84,7 +84,7 @@
 
   .site-nav {
     float: right;
-    width: 50%;
+    width: 70%;
     margin-top: $spacer0;
     justify-content: space-around;
     font-size: 1.25rem;
