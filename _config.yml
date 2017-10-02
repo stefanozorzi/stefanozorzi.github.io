@@ -5,7 +5,7 @@ title: Stefano Zorzi Blog               # used for the html title of every page
 desc: >
   Essays by Stefano Zorzi
 
-url: https//stefanozorzi.github.io    # put your website hosting url here
+url: https//stefanozorzi.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
