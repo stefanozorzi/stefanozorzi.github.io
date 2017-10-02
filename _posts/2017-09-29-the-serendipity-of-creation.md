@@ -7,17 +7,9 @@ categories:
 ---
 Somebody asked me a great question recently: “What’s the single most important thing you have read or learned that profoundly shaped how you think and work?” 
 
+On the spot, I hesitated. There is probably no “single thing”, but a combination of influences, experiences and lessons resulting in the way I see the world today. 
 
-	{% highlight ruby %}
-	def foo
-	  puts 'foo'
-	end
-	{% endhighlight %}
-
-![Large example image](/assets/img/photo.jpg "Large example image")
-
-
-<!–break–> 
+At a closer look, though, it is more like many small streams flowing into the same larger river. There is one big thread connecting these difference sources. It has to do with the realisation that creative acts require the ability to fully abandon oneself to the process. 
 
 ## Action and attachment 
 
@@ -35,17 +27,17 @@ Action over results, means over ends, are just one aspect of  abandoning oneself
 
 Even more important - at least for creative endeavours - is the belief in the power of getting started.  Talking about this, Pablo Picasso once said: 
 
-_“To know what you are going to draw, you have to begin drawing.”
+> “To know what you are going to draw, you have to begin drawing.”
 
 From art to science, passing through the philosophy of science, we find an alternative way of saying the same. This one is from Paul Feyerabend in “Against Method”:
 
-_"Creation of a thing, and creation plus full understanding of a correct idea of the thing, are very often part of one and the same indivisible process and cannot be separated without bringing the process to a stop.”_
+> _”Creation of a thing, and creation plus full understanding of a correct idea of the thing, are very often part of one and the same indivisible process and cannot be separated without bringing the process to a stop.”_
 
 Most ideas acquire their final shape while we are working on them. Nothing is created pure in our mind and then executed. Only through that process - the “creation of a thing” - we can discover what we are actually working on. 
 
 For Rem Koolhaas and the architects and designers at Office for Metropolitan Architecture, this is the difference between “projects” and “trajectories”:
 
-“_A project is an enterprise that is carefully planned to achieve a particular aim. A trajectory instead includes the explorations, discoveries, numerous detours and unexpected surprises that occur while creating something._”
+> _”A project is an enterprise that is carefully planned to achieve a particular aim. A trajectory instead includes the explorations, discoveries, numerous detours and unexpected surprises that occur while creating something”._
 
 Paul Graham means something similar when he says that _“writing doesn’t just communicate ideas, it generates them.” _
 
@@ -57,11 +49,11 @@ Some tricks are unconscious: we see clarity where clarity is missing. We believe
 
 Albert Hirschmann called it “The Hiding Hand”: 
 
-_”Creativity always comes as a surprise to us; therefore we can never count on it and we dare not believe in it until it has happened. In other words, we would not consciously engage upon tasks whose success clearly requires that creativity be forthcoming. Hence, the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task, by presenting it to ourselves as more routine, simple, undemanding of genuine creativity than it will turn out to be. Or, put differently: since we necessarily underestimate our creativity it is desirable that we underestimate to a roughly similar extent the difficulties of the tasks we face, so as to be tricked by these two offsetting underestimates into undertaking tasks which we can, but otherwise would not dare, tackle.”_
+> _”Creativity always comes as a surprise to us; therefore we can never count on it and we dare not believe in it until it has happened. In other words, we would not consciously engage upon tasks whose success clearly requires that creativity be forthcoming. Hence, the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task, by presenting it to ourselves as more routine, simple, undemanding of genuine creativity than it will turn out to be. Or, put differently: since we necessarily underestimate our creativity it is desirable that we underestimate to a roughly similar extent the difficulties of the tasks we face, so as to be tricked by these two offsetting underestimates into undertaking tasks which we can, but otherwise would not dare, tackle.”_
 
 Another approach, when unable to unconsciously trick ourselves, is to do it on purpose. Improvisation techniques offer a good way of doing that. In “Impro”, Keith Johnstone writes: 
 
-_“You have to trick students into believing that content isn’t important and that it looks after itself, or they never get anywhere.(…)You have to misdirect people to absolve them of responsibility. Then, much later, they become strong enough to resume the responsibility themselves.” _
+> _“You have to trick students into believing that content isn’t important and that it looks after itself, or they never get anywhere.(…)You have to misdirect people to absolve them of responsibility. Then, much later, they become strong enough to resume the responsibility themselves.” _
 
 Believing that what we are doing is unimportant, that we have no “responsibility”, is also a great way to learn how to throw away things. Nothing of what I quoted here about starting makes sense if we are not able, at the right moment, to throw away whatever we have produced and start from scratch, now under a much better inspiration. 
 

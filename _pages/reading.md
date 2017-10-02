@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-subtitle: Reading now
+subtitle: Reading
 desc: 
 permalink: /reading/
 ---
