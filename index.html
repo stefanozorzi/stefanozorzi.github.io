@@ -8,10 +8,10 @@ layout: default
 </div>
 
 <header class="page-header">
-    <h1 class="page-title">Recent posts</h1>
+    <h4 class="page-title">Recent posts</h4>
   </header>
 
-<div class="blog-index page-content">  
+<div class="blog-index page-content">
     {% for post in site.posts offset: 0 limit: 2 %}
       {% assign content = post.content %}
   		{% include post_detail.html %}
