@@ -16,6 +16,7 @@
   }
 }
 
+
 .post-content,
 .page-content {
 
@@ -35,6 +36,8 @@
     font-style: italic;
   }
 }
+
+
 
 @include mq-up(md) {
   .page-header,
@@ -89,14 +92,28 @@
 
 // PAGE ARTICLES & POST ====================================
 
+.c-archives {
+    margin-top: $spacer5;
+    margin-bottom: $spacer0;
+}
+
+.c-archives__year {
+    
+} 
+
+
 .post-list {
   list-style: none;
   padding-left: 0;
   margin-top: $spacer4;
 
+  
+
   .post-title {
     color: $brand-color;
     margin-bottom: $spacer0;
+    
+
   }
 
   .post {
