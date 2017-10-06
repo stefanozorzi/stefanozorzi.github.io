@@ -168,14 +168,14 @@
 // SITE SELECTION ====================================
 
 ::-moz-selection {
-  background-color: $brand-color;
-  color: #fff;
+  background-color: rgba($brand-color, 0.15);
+  color: $brand-color;
   text-shadow: none;
 }
 
 ::selection {
-  background-color: $brand-color;
-  color: #fff;
+  background-color: rgba($brand-color, 0.15);
+  color: $brand-color;
   text-shadow: none;
 }
 
