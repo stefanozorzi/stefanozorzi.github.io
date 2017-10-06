@@ -4,6 +4,13 @@
 .post-header {
   margin-bottom: $spacer;
 
+  h3 {
+    margin-top: $spacer2;
+    margin-bottom: $spacer;
+    font-style: italic;
+    color: $gray-light;
+  }
+
   h1{
     max-width: 80%;
     margin-bottom: $spacer3;
@@ -25,7 +32,8 @@
   h3 {
     margin-top: $spacer1;
     margin-bottom: $spacer0;
-    color: $gray;
+    color: $gray-light;
+    font-style: italic;
   }
 }
 
@@ -50,7 +58,8 @@
     h3 {
       margin-top: $spacer2;
       margin-bottom: $spacer;
-      color: $gray;
+      font-style: italic;
+      color: $gray-light;
     }
   }
 }
@@ -93,6 +102,10 @@
 
   .post {
     margin-bottom: $spacer2;
+
+    h3{
+      font-style: normal;
+    }
 
     p{
       margin-bottom: $spacer;
