@@ -3,6 +3,11 @@
 .page-header,
 .post-header {
   margin-bottom: $spacer;
+
+  h1{
+    max-width: 80%;
+    margin-bottom: $spacer3;
+  }
 }
 
 .post-content,
@@ -112,32 +117,7 @@ p.post-desc {
   margin-top: -$spacer0;
 }
 
-// PAGE POST - BAR ------------------
-.post .post-header::after,
-.post-link::after {
-  content: '';
-  display: block;
-  width: $spacer4;
-  height: 5px;
-  background: $brand-light-color;
-}
-
-.post-link::after {
-  -webkit-transform-origin: left center;
-  transform-origin: left center;
-  -webkit-transform: scaleX(1);
-  transform: scaleX(1);
-  transition: .5s all cubic-bezier(.5, -.2, .25, 1.2);
-}
-
-.post-link:focus::after,
-.post-link:hover::after {
-  -webkit-transform: scaleX(3);
-  transform: scaleX(3);
-}
-
 // PAGE WORK & PROJECTS ====================================
-
 .project {
   margin-right: $spacer;
   font-size: 1rem;
