@@ -10,39 +10,58 @@ desc: Longer essays
   {% endfor %}
 {% endif %}
 
-<ul class="post-list">
+  <section class="c-archives">
   {% for post in paginator.posts %}
-  <li class="post">
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-      <h3 class="post-title">{{ post.title }}</h3>
-      <time class="post-date" datetime="{{ post.date }}">
-      {% assign d = post.date | date: "%-d" %}
-      {% assign m = post.date | date: "%B" %}
-      {% case m %}
-        {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
-        {% when 'September' %}Sept.
-        {% else %}{{ post.date | date: "%b" }}.
-        {% endcase %}
-      {% case d %}
-        {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-      {{ post.date | date: "%Y" }}
-      </time>
-      <!--<p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>-->
-    </a>
-  </li>
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+        <h3 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h3>
+        <ul class="post-list">
+    {% endif %}
+
+        <li class="post">
+          
+            <h3 class="entry-title">
+              <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+            </h3>
+            <time class="post-date" datetime="{{ post.date }}">
+            {% assign d = post.date | date: "%-d" %}
+            {% assign m = post.date | date: "%B" %}
+            {% case m %}
+              {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+              {% when 'September' %}Sept.
+              {% else %}{{ post.date | date: "%b" }}.
+              {% endcase %}
+            {% case d %}
+              {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+            {{ post.date | date: "%Y" }}
+            </time>
+            <!--<p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>-->
+          </a>
+        </li>
+      {% if forloop.last %}
+        </ul>
+      {% else %}
+        {% if this_year != next_year %}
+        </ul>
+        <h3 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h3>
+        <ul class="post-list">
+        {% endif %}
+    {% endif %}
   {% endfor %}
-</ul>
+</section>
 <!-- post-list -->
 
 <ol class="pager">
   {% if paginator.previous_page %}
-  <li class="pager-prev">
+  <ul class="pager-prev">
     <a href="{{ paginator.previous_page_path }}">Previous</a>
-  </li>
+  </ul>
   {% endif %}
   {% if paginator.next_page %}
-  <li class="pager-next">
+  <ul class="pager-next">
     <a href="{{ paginator.next_page_path }}">Next</a>
-  </li>
+  </ul>
   {% endif %}
 </ol>
