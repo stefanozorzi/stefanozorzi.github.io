@@ -2,7 +2,7 @@
 
 .page-header,
 .post-header {
-  margin-bottom: $spacer;
+  margin: $spacer4 0 $spacer2;
 
   h3 {
     margin-top: $spacer2;
@@ -12,8 +12,7 @@
   }
 
   h1{
-    max-width: 80%;
-    margin-bottom: $spacer3;
+    margin-bottom: $spacer;
   }
 }
 
