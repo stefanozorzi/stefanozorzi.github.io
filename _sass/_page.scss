@@ -2,7 +2,18 @@
 
 .page-header,
 .post-header {
-  margin-bottom: $spacer;
+  margin: $spacer4 0 $spacer2;
+
+  h3 {
+    margin-top: $spacer2;
+    margin-bottom: $spacer;
+    font-style: italic;
+    color: $gray-light;
+  }
+
+  h1{
+    margin-bottom: $spacer;
+  }
 }
 
 .post-content,
@@ -20,13 +31,14 @@
   h3 {
     margin-top: $spacer1;
     margin-bottom: $spacer0;
-    color: $gray;
+    color: $gray-light;
+    font-style: italic;
   }
 }
 
 @include mq-up(md) {
   .page-header,
-  .post-header {
+    .post-header {
     margin-bottom: $spacer2;
   }
 
@@ -45,7 +57,8 @@
     h3 {
       margin-top: $spacer2;
       margin-bottom: $spacer;
-      color: $gray;
+      font-style: italic;
+      color: $gray-light;
     }
   }
 }
@@ -79,7 +92,7 @@
 .post-list {
   list-style: none;
   padding-left: 0;
-  margin-top: $spacer2;
+  margin-top: $spacer4;
 
   .post-title {
     color: $brand-color;
@@ -88,6 +101,14 @@
 
   .post {
     margin-bottom: $spacer2;
+
+    h3{
+      font-style: normal;
+    }
+
+    p{
+      margin-bottom: $spacer;
+    }
   }
 }
 
@@ -112,32 +133,7 @@ p.post-desc {
   margin-top: -$spacer0;
 }
 
-// PAGE POST - BAR ------------------
-.post .post-header::after,
-.post-link::after {
-  content: '';
-  display: block;
-  width: $spacer4;
-  height: 5px;
-  background: $brand-light-color;
-}
-
-.post-link::after {
-  -webkit-transform-origin: left center;
-  transform-origin: left center;
-  -webkit-transform: scaleX(1);
-  transform: scaleX(1);
-  transition: .5s all cubic-bezier(.5, -.2, .25, 1.2);
-}
-
-.post-link:focus::after,
-.post-link:hover::after {
-  -webkit-transform: scaleX(3);
-  transform: scaleX(3);
-}
-
 // PAGE WORK & PROJECTS ====================================
-
 .project {
   margin-right: $spacer;
   font-size: 1rem;
@@ -172,7 +168,7 @@ p.post-desc {
 // PAGE ABOUT ====================================
 
 .lead-about {
-  color: $dark-blue;
+  color: $dark-red;
 }
 
 .site-profile {

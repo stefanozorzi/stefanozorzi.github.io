@@ -2,16 +2,16 @@
 layout: page
 title: Reading
 subtitle: Reading
-desc: 
+desc:
 permalink: /reading/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">I enjoy looking at the "reading" section on other people's blogs. It is like browsing a stranger's library, you always find something surprising.
+<div class="lead lead-about"><i>I enjoy looking at the "reading" section on other people's blogs. It is like browsing a stranger's library, you always find something surprising.</i>
 </div>
 
-<!--{::nomarkdown} 
+<!--{::nomarkdown}
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
@@ -19,15 +19,15 @@ permalink: /reading/
 
 ---
 
-## Now reading
+### Now reading
 
-- Paul Feyerabend, *[Against Method](https://www.amazon.co.uk/Against-Method-Feyerabend-Paul-Paperback/dp/B00M0SFZ6O/)* 
+- Paul Feyerabend, *[Against Method](https://www.amazon.co.uk/Against-Method-Feyerabend-Paul-Paperback/dp/B00M0SFZ6O/)*
 - Svetlana Boym, *[The Future of Nostalgia](https://www.amazon.co.uk/Future-Nostalgia-Svetlana-Boym/dp/0465007082)*
 - Ken Liu, [*Invisible Planets*](https://www.amazon.co.uk/Invisible-Planets-Ken-Liu/dp/1786692783)
 - Karl Popper, [*Conjectures and Refutations*](https://www.amazon.co.uk/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941/)
 
 
-## Recently finished
+### Recently finished
 
 - Keith Johnstone, *Impro*
 - Karl Popper, [*Unended Quest: an intellectual autobiography*](https://www.amazon.co.uk/Unended-Quest-Intellectual-Autobiography-Routledge/dp/0415285909)
@@ -36,10 +36,9 @@ permalink: /reading/
 - Albert Camus, *The Myth of Sisyphus*
 
 
-## Recently started but dropped
+### Recently started but dropped
 
 - James Dale, Davidson, *The Sovereign Individual*
 - Geoffrey West, *Scale*
 
-## Queued
-
+### Queued

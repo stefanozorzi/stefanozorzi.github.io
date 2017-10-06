@@ -77,9 +77,11 @@
 
 @include mq-up(md) {
   .site-logo {
+    position: absolute;
+    top: 0;
     margin-left: $spacer0;
     width: 3.5rem;
-    height: 3.5rem;
+    height: 5rem;
   }
 
   .site-nav {
@@ -109,7 +111,7 @@
   margin: 4rem 0 6rem;
   padding-top: $spacer1;
   font-family: $font-heading;
-  border-top: 1px solid $brand-light-color;
+  border-top: 1px solid $gray-lighter;
 }
 
 .site-footer {
@@ -168,14 +170,14 @@
 // SITE SELECTION ====================================
 
 ::-moz-selection {
-  background-color: $brand-color;
-  color: #fff;
+  background-color: rgba($brand-color, 0.15);
+  color: $brand-color;
   text-shadow: none;
 }
 
 ::selection {
-  background-color: $brand-color;
-  color: #fff;
+  background-color: rgba($brand-color, 0.15);
+  color: $brand-color;
   text-shadow: none;
 }
 

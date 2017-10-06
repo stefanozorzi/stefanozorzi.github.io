@@ -6,12 +6,12 @@ layout: default
   I try to write down what I think.</br>
   If it seems all over the place, it probably is.</i>
 </div>
-
+<hr>
 <header class="page-header">
-    <h1 class="page-title">Recent posts</h1>
-  </header>
+  <h3 class="page-title">Recent posts</h3>
+</header>
 
-<div class="blog-index page-content">  
+<div class="blog-index page-content">
     {% for post in site.posts offset: 0 limit: 2 %}
       {% assign content = post.content %}
   		{% include post_detail.html %}
