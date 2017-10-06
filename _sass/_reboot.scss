@@ -89,6 +89,11 @@ a {
   text-decoration: $link-decoration;
   background-color: transparent;
 
+  &.btn{
+    color: $body-color;
+    border-bottom: 0.1rem solid black;
+  }
+
   &:active,
   &:hover {
     outline-width: 0;
