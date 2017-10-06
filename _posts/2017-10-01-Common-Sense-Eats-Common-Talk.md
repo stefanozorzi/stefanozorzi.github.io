@@ -53,13 +53,13 @@ We can now consider the optimal approach to navigate situations where common tal
 
 Thinking in terms of burden of proof can help us come up with a set of simple rules of thumb to guide our day-to-day decision making and communication. I’ll suggest three here, but there are surely more which I’d be happy to hear:
 
-_When a proposition contradicts common sense, we should assume it to be wrong._
+### _When a proposition contradicts common sense, we should assume it to be wrong._
 
 Jared Diamond made this point recently when naming “common sense” as his choice for a scientific concept that “[ought to be more widely known](https://www.edge.org/response-detail/27111).” As an example, he cites a recent debate among archaeologists regarding the discovery of pre-Clovis settlements in Southern U.S. states and Latin America. Common sense alone would be enough to dismiss such claims. There are hundreds of Clovis settlements south of the Canada/U.S. border, but no sign of human presence before that epoch has yet been discovered. If pre-Clovis populations had indeed passed through the continent, there would be plenty of evidence by now and it seems implausible that they have been “airlifted” directly to the south. Yet a large number of scholars overlook this basic logic and get blinded by the desire to claim a new discovery pre-dating those of their colleagues. Unsurprisingly, these claims usually turn out to be the result of measurement or sampling errors in the dating of radiocarbon.
 
 The point is not to preemptively disregard any theory that contradicts common sense. Rather, it is a warning to avoid getting bogged down in details before the primary contradictions of a new theory are resolved. It also forces us to come up with a plausible explanation for why such a theory is not wrong.
 
-_If we cannot strip a statement of its jargon and rephrase in our own words, we are likely perpetuating common talk._
+### _If we cannot strip a statement of its jargon and rephrase in our own words, we are likely perpetuating common talk._
 
 One of the best formulations of this point comes from Timothy Snyder’s _On Tyranny_. In lesson nine – “Be kind to our language” – he writes:
 
@@ -69,7 +69,7 @@ If we cannot explain a concept in plain terms, there is a high likelihood that w
 
 Naturally, it is not realistic to expect we can reach a teaching-level of knowledge in all possible subjects. There will be situations where we are forced to work from [cached thoughts](http://lesswrong.com/lw/k5/cached_thoughts/) – thoughts that we pick from our memory or environment without critical processing. In these situations, it is worth realising that the burden of proof is on us. Everything we say without fully understanding it, or without a strong trust in the source, should be taken with a grain of salt.
 
-_Always test macro thoughts against micro examples._
+### _Always test macro thoughts against micro examples._
 
 From a general point of view, this is simply one of the essential characteristics of science. In Feynman’s words: “It doesn’t make a difference how beautiful your guess (theory) is, it doesn’t make a difference how smart you are… if it disagrees with experiment, it’s wrong”.
 
