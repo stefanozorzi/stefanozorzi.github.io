@@ -6,20 +6,17 @@ $gray:                      #55595c;
 $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #ffffff;
-
-$blue:                      #91252f;                //changed to roma red
-$light-blue:                lighten($blue, 45%);
-$dark-blue:                 darken($blue, 20%);
+$red:                       #91252f;
+$light-red:                lighten($red, 45%);
+$dark-red:                 darken($red, 20%);
 
 $ligt-yellow:               #fcf8e3;
 
-$red:                       #bd4147;
-
 // COLORS - BRAND ------------------
-$brand-color:               $blue;
-$brand-light-color:         $light-blue;
+$brand-color:               $red;
+$brand-light-color:         $light-red;
 $brand-secondary:           $gray-dark;
-$text-muted:                $gray-light;
+$text-muted:                $gray-lightest;
 
 // GLOBALS  ====================================
 
@@ -29,7 +26,7 @@ $body-color:                $gray-dark;
 // GLOBALS - LINKS ------------------
 $link-color:                $brand-color;
 $link-decoration:           none;
-$link-hover-color:          $dark-blue;
+$link-hover-color:          $dark-red;
 $link-hover-decoration:     none;
 
 // GLOBALS - SPACERS ------------------
@@ -57,7 +54,7 @@ $lh-md:                     1.6;
 
 $fs-root:                   16px;
 $fs:                        1rem;
-$fs-md:                     1.1rem;   
+$fs-md:                     1.1rem;
 
 $fs-h1:                     1.602em;
 $fs-h2:                     1.424rem;
