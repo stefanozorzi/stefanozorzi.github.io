@@ -77,9 +77,11 @@
 
 @include mq-up(md) {
   .site-logo {
+    position: absolute;
+    top: 0;
     margin-left: $spacer0;
     width: 3.5rem;
-    height: 3.5rem;
+    height: 5rem;
   }
 
   .site-nav {
