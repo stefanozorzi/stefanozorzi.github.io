@@ -3,7 +3,7 @@ layout: post
 title:  "How to Waste an Achievement"
 desc: "This is not what we do it is what we don't do."
 date:   2017-10-06 04:42:53 +0200
-categories: long
+categories: 
 ---
 There is nothing more natural - and well deserved - than celebrating an achievement. Celebrations - rewards, more in general - release dopamine and create the desire to feel those emotions again. Achievements beget more achievements. 
 

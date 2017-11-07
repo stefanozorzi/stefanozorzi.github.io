@@ -19,9 +19,15 @@ permalink: /reading/
 
 ---
 
-### Now reading
+### Now reading (fast track)
 
-- Italo Calvino, *[Six Memos for the Next Millenium](https://www.amazon.com/Memos-Millennium-Penguin-Modern-Classics/dp/014118969X)*
+- Jorge Luis Borges, *[Borges Esencial, Edicion Conmemorativa](https://www.amazon.co.uk/gp/product/8420479780)*
+
+### Now reading (slow track)
+
+
+- Niels Bohr, *[Centenary Volume](https://www.amazon.co.uk/Niels-Bohr-Centenary-P-French/dp/0674624157)*
+- Winston Churchill, *[The Second World War](https://www.amazon.co.uk/Second-World-War-Winston-Churchill/dp/0712667024/)*
 - Svetlana Boym, *[The Future of Nostalgia](https://www.amazon.co.uk/Future-Nostalgia-Svetlana-Boym/dp/0465007082)*
 - Ken Liu, [*Invisible Planets*](https://www.amazon.co.uk/Invisible-Planets-Ken-Liu/dp/1786692783)
 - Karl Popper, [*Conjectures and Refutations*](https://www.amazon.co.uk/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941/)
@@ -29,6 +35,7 @@ permalink: /reading/
 
 ### Recently finished
 
+- Italo Calvino, *[Six Memos for the Next Millenium](https://www.amazon.com/Memos-Millennium-Penguin-Modern-Classics/dp/014118969X)*
 - Paul Feyerabend, *[Against Method](https://www.amazon.co.uk/Against-Method-Feyerabend-Paul-Paperback/dp/B00M0SFZ6O/)*
 - Keith Johnstone, *Impro*
 - Karl Popper, [*Unended Quest: an intellectual autobiography*](https://www.amazon.co.uk/Unended-Quest-Intellectual-Autobiography-Routledge/dp/0415285909)
@@ -42,4 +49,4 @@ permalink: /reading/
 - James Dale, Davidson, *The Sovereign Individual*
 - Geoffrey West, *Scale*
 
-### Queued
+<!-- ### Queued -->

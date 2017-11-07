@@ -11,7 +11,7 @@ layout: default
 </header>
 
 <div class="blog-index page-content">
-    {% for post in site.posts offset: 0 limit: 2 %}
+    {% for post in site.categories.long offset: 0 limit: 2 %}
       {% assign content = post.content %}
   		{% include post_detail.html %}
       {% endfor %}
