@@ -4,6 +4,7 @@ title:  "Common Sense Eats Common Talk"
 description: "A post from ribbonfarm"
 date:   2017-10-01 21:42:53 +0200
 categories: long
+image: /assets/img/emperor.jpg
 ---
 
 In November 2008, with the financial crisis in full swing, Queen Elizabeth attended a ceremony at the London School of Economics. Facing an audience of high ranked academics, she posed a simple question: “Why did nobody notice it?”

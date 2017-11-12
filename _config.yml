@@ -8,6 +8,7 @@ desc: >
 url: https//stefanozorzi.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
+title_image: "http://www.thehidinghand.com/assets/img/new_logo.svg"
 
 # Meta settings
 email: sfnzrz@gmail.com 
