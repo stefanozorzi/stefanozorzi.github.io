@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Common Sense Eats Common Talk"
-description: "A post from ribbonfarm"
+description: "A post about defending oneself from what everybody is saying"
 date:   2017-10-01 21:42:53 +0200
 categories: long
 image: /assets/img/emperor.jpg
