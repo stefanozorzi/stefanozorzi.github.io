@@ -31,7 +31,7 @@ navigation:
   - title: Home
     url: /index.html
     desc: Home
-  - title: Archive
+  - title: All Posts
     url: /posts/
     desc: Posts
   - title: Reading

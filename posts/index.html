@@ -2,8 +2,14 @@
 layout: page
 title: Posts
 subtitle: Posts
-desc: Longer essays
+desc: All Posts
 ---
+
+<div class="pretty-links">
+
+<div class="lead lead-about"><i>A new home calls for a fresh start. Older posts can be found <a href="http://stefanozorzi.xyz">here.</a></i>
+</div>
+
 {% if paginator.page == 1 %}
   {% for post in site.posts limit: 2 %}
 <link rel="prerender" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
