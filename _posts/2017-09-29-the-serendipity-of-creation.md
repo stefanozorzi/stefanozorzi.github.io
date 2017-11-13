@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The serendipity of creation"
+title:  "The Serendipity of Creation"
 description: "This is not what we do it is what we don't do."
 date:   2017-09-29 21:42:53 +0200
 categories: 
