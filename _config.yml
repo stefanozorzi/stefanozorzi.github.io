@@ -18,7 +18,7 @@ github_username: stefanozorzi
 github_source: jackal
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-43398182-2'
 
 # Pagination settings
 paginate: 10                           # number of posts to show per page

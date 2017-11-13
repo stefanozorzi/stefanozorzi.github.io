@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Waste an Achievement"
-desc: "This is not what we do it is what we don't do."
+description: "This is not what we do it is what we don't do."
 date:   2017-10-06 04:42:53 +0200
 categories: 
 ---
