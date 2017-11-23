@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "History Is Written In Prose"
-description: 
+description: "Historical analogies are everywhere around us. Open a newspaper these days and you will find: Trump and Brexit compared to the rise of fascism in the 20’s and 30’s, the bitcoin run compared to the dotcom bubble - and the tulip bubble, or any other bubble before that - the AI revolution compared to the electrical revolution, Tesla vs Bigcar compared to Apple vs. Nokia, and many others. "
 date:   2017-11-23 15:57:53 +0200
 categories: long
-image: 
+image: /assets/img/logoeye.png
 excerpt_separator: 
 ---
 
@@ -79,4 +79,6 @@ It is possible to say that all conditions were ripe in Germany post-WWI to gener
 
 Behaviours, on the other hand, are surprisingly stable. Here is where the classics come in handy: when we read Seneca’s letter, Plato discourses, Montaigne’s essays, a typical reaction is to be surprised about how similar their troubles, desires, passions are to ours. How applicable their advice. Humans and our deepest feelings are pretty much the same as 2000 years ago. 
 
-I don’t want to end this post by going full circle and back to the value of reading those authors. The relative stability of human behaviours means that no matter the context we can use the same ingredients to motivate positive thoughts and reflections. History is more like prose; we are the characters in a story that can take any path. Every novel and every parallel route can take a different course while saying something fundamental about us. We are susceptible to look for scapegoats when things go wrong. We tend to become less generous when we see our primary needs threatened. We become complacent when things go well. We display hubris after receiving praises. We relax our control mechanism when we are not watched. As a species, we can be damn repetitive, and therefore predictable. 
+I don’t want to end this post by going full circle and back to the value of reading those authors. The relative stability of human behaviours means that no matter the context we can use the same ingredients to motivate positive thoughts and reflections. History is more like prose; we are the characters in a story that can take any path. Every novel and every parallel route can take a different course while saying something fundamental about us. We are susceptible to look for scapegoats when things go wrong. We tend to become less generous when we see our primary needs threatened. We become complacent when things go well. We display hubris after receiving praises. We relax our control mechanism when we are not watched. 
+
+As a species, we can be damn repetitive, and therefore predictable. 
