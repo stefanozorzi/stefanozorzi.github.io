@@ -35,7 +35,7 @@ The study of history and the classics was slowly becoming the backbone of a new 
 
 This attraction to patterns of “universal significance” remains unchanged today as one of the principal reason why historical analogies are so appealing. We tend to praise people who are known to find connections among unrelated events and, as a result, there is a race to see more of them. 
 
-On this point, I agree with Eliezer Yudkowsky when, in The Virtue of Narrowness, he says
+On this point, I agree with Eliezer Yudkowsky when, in [The Virtue of Narrowness](http://lesswrong.com/lw/ic/the_virtue_of_narrowness/), he says
 
 > And what could be more virtuous than seeing connections? Surely the wisest of all human beings are the New Age gurus who say "Everything is connected to everything else." If you ever say this aloud, you should pause, so that everyone can absorb the sheer shock of this Deep Wisdom.
 
