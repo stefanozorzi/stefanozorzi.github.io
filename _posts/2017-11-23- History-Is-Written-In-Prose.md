@@ -10,8 +10,7 @@ excerpt_separator:
 
 Historical analogies are everywhere around us. Open a newspaper these days and you will find: Trump and Brexit compared to the rise of fascism in the 20’s and 30’s, the bitcoin run compared to the dotcom bubble - and the tulip bubble, or any other bubble before that - the AI revolution compared to the electrical revolution, Tesla vs Bigcar compared to Apple vs. Nokia, and many others. 
 
- 
-In most cases, the goal of the analogy is to demonstrate past causality and thus future predictability: 
+ In most cases, the goal of the analogy is to demonstrate past causality and thus future predictability: 
 
 	Event A is similar to event B
 	B resulted in C
@@ -35,23 +34,23 @@ The study of history and the classics was slowly becoming the backbone of a new 
 
 This attraction to patterns of “universal significance” remains unchanged today as one of the principal reason why historical analogies are so appealing. We tend to praise people who are known to find connections among unrelated events and, as a result, there is a race to see more of them. 
 
-On this point, I agree with Eliezer Yudkowsky when, in [The Virtue of Narrowness](http://lesswrong.com/lw/ic/the_virtue_of_narrowness/), he says
+On this point, I agree with Eliezer Yudkowsky when, in [The Virtue of Narrowness](http://lesswrong.com/lw/ic/the_virtue_of_narrowness/), he writes
 
 > And what could be more virtuous than seeing connections? Surely the wisest of all human beings are the New Age gurus who say "Everything is connected to everything else." If you ever say this aloud, you should pause, so that everyone can absorb the sheer shock of this Deep Wisdom.
 
-There is more insight in the narrow picture than in the big one. Spotting differences and specificities is more valuable than understanding similarities: 
+Historical knowledge is no different than other types of knowledge: as soon as we have little grasp of it, we believe to know it all. That gives us the (false) confidence to draw connections in all directions. In reality, however, the more we know, the more we understand that things - events, in our case - are not alike.
 
 > …they draw endless verbal comparisons between this topic and that topic, which is like this, which is like that; until their graph is fully connected and also totally useless. The remedy is specific knowledge and in-depth study. When you understand things in detail, you can see how they are not alike, and start enthusiastically subtracting edges off your graph.
 
-The more we know, the more we understand that things - events, in our case - are not alike. Historical knowledge is no different than other types of knowledge following a Dunning-Kruger shape: at first, we know nothing, but as soon as we start knowing just a little bit, we believe to know it all. 
+There is more insight in the narrow picture than in the big one. Spotting differences and specificities is more valuable than understanding similarities.
 
 ## Events are bad teachers
 
-The question shifts now to whether knowledge of history tout-court is valuable. My instinctive answer to this question is a resounding “yes”, and yet when I think about it, my certitude starts cracking.
+At a more general level, it is worth asking ourselves whether knowledge of history tout court is valuable. My instinctive answer to this question is a resounding “yes”, and yet when I think about it, my certitude starts cracking.
 
 I grew up in an environment soaked in memories of the second world war. Even if both my parents were born after 1945, there was a universal perception of what had happened and that, in turn, had clear implications on how people thought and spoke. 
 
-Maintaining that same memory alive today - regardless of how beneficial it might be - seems almost impossible. When a group of supporters of a certain Italian football team decided to print hundreds of stickers of Anne Frank wearing their rival team’s jersey, the national league responded by having players reading passages from her diary. What they did is hideous beyond imagination, but I was left wondering whether the chosen “remedy” - keeping the memory alive - will sort better effects than any tell of Napoleonic wars would have had on me in my teenage years. The point here is not “knowing about history” is “not being a miserable idiot” or rather, “being a good human”. 
+Maintaining that same memory alive today - regardless of how beneficial it might be - seems almost impossible. When a group of supporters of a certain Italian football team decided to print hundreds of stickers of Anne Frank wearing their rival team’s jersey, the national league responded by having players reading passages from her diary. What they did is hideous beyond imagination, but I was left wondering whether the chosen “remedy” - keeping the memory alive - will sort better effects than any tell of Napoleonic wars would have had on me in my teenage years. The point here is not “knowing about history” is “not being a miserable idiot” or rather, “being ~~a good~ human”. 
 
 Knowledge of events is not enough. After all, history is easy to manipulate, and if we just look back at the last couple of decades, the number of massacres caused by (partial versions of) history is higher than the number of those it has prevented.
 
@@ -61,9 +60,9 @@ We do better when we turn our attention to more extended periods.
 
 Looking at where the “arc of history” bends towards in a particular region or country can help us understand if a certain situation is a mere parenthesis or a development likely to stay in place. For example, it would have been fair to expect China to resume a prominent role in world affairs, even if that alone didn’t guarantee it to happen. Another example is the turmoil in Ukraine. It is not a surprise that there isn’t a lot of love between Ukrainians and Russians. Some events don’t pass easily. They remain in the memories of the survivors, in the accounts of the refugees, in the goodnight stories told to children. 
 
-In these cases, history doesn’t repeat, nor rhyme - rather the opposite: it just doesn’t change. It behaves like a river that flows submerged for a short stretch (of time) only to re-emerge somewhere else. 
+In these cases, history doesn’t repeat, nor rhyme - but rather the opposite: it just doesn’t change. It behaves like a river that flows submerged for a short stretch (of time) only to re-emerge somewhere else. 
 
-Cycles are equally interesting to look at. For Greek and Roman historians the study of historical cycles focused on the rise and fall of empires. Today, a more popular topic of discussion is the economic cycles of boom and bust. From J.K. Galbraith’s A Short History of Financial Euphoria to Carlota Perez’s Technological Revolutions and Financial Capital,  a long list of authors and commentators have described the recurrent patterns of greed and fear that characterise modern - and not-so-modern - financial markets. 
+Cycles are equally interesting to look at. For Greek and Roman historians the study of historical cycles focused on the rise and fall of empires. Today, a more popular topic of discussion is the economic cycles of boom and bust. From J.K. Galbraith’s _A Short History of Financial Euphoria_ to Carlota Perez’s _Technological Revolutions and Financial Capital_,  a long list of authors and commentators have described the recurrent patterns of greed and fear that characterise modern - and not-so-modern - financial markets. 
 
 These analyses can be useful as a general compass to navigate unchartered waters, but we shouldn't overstate their validity as prediction tools. The fundamental weakness of cyclical theories lies in the time horizon and in the scale chosen. For any given topic or cycle it is rare to have more than 3 to 5 occurrences in a sample. That in itself would call for some caution before generalising, let alone predicting. A similar discussion goes for scale. The image below is a popular meme among crypto bulls, did the 2013 crash represent the "bust" side of a cycle or a negligible bump along the longer road to the moon?
 
@@ -77,8 +76,8 @@ It could be useful at this point to introduce a distinction. There are “events
 
 It is possible to say that all conditions were ripe in Germany post-WWI to generate the seed of nazism. When looking at the events, however - from Hitler’s incarceration to the bomb in the Munich brewery to Schleicher’s machinations, not even counting his previous attempts at art - there are hundreds of small bifurcations which might have turned history in a very different direction. 
 
-Behaviours, on the other hand, are surprisingly stable. Here is where the classics come in handy: when we read Seneca’s letter, Plato discourses, Montaigne’s essays, a typical reaction is to be surprised about how similar their troubles, desires, passions are to ours. How applicable their advice. Humans and our deepest feelings are pretty much the same as 2000 years ago. 
+Behaviours, on the other hand, are surprisingly stable. Here is where the classics come in handy: when we read Seneca’s letter, Plato discourses, Montaigne’s essays, a typical reaction is to be surprised about how similar their troubles, desires, passions are to ours. How appropriate their advice is to our lives. Humans and our most profound feelings are pretty much the same as 2000 years ago. 
 
-I don’t want to end this post by going full circle and back to the value of reading those authors. The relative stability of human behaviours means that no matter the context we can use the same ingredients to motivate positive thoughts and reflections. History is more like prose; we are the characters in a story that can take any path. Every novel and every parallel route can take a different course while saying something fundamental about us. We are susceptible to look for scapegoats when things go wrong. We tend to become less generous when we see our primary needs threatened. We become complacent when things go well. We display hubris after receiving praises. We relax our control mechanism when we are not watched. 
+I don’t want to end this post by going back full circle to the value of reading those authors. The relative stability of human behaviours means that no matter the context we can use the same ingredients to create stories that motivate positive thoughts and reflections. History is more like prose; we are the characters in a story that can take any path. Every novel and every parallel route can take a different course while saying something fundamental about us. We are susceptible to look for scapegoats when things go wrong. We tend to become less generous when we see our primary needs threatened. We become complacent when things go well. We display hubris after receiving praises. We relax our control mechanism when we are not watched. 
 
-As a species, we can be damn repetitive, and therefore predictable. 
+As a species, we can be damn repetitive, and that's what makes us predictable. 
