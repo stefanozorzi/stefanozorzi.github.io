@@ -20,7 +20,7 @@ Once proven, this equation is used as validation for two types of action: preven
 
 Historical analogies find support in famous quotes like Cicero’s “historia magistra vitae” and Mark Twain’s (likely apocryphal) “history doesn’t repeat, but it rhymes”. They are also encouraged by a positive bias towards the knowledge of historical facts: “learn the past to avoid repeating it”. 
 
-The usefulness of these analogies is up for debate. Certain patterns do re-emerge in different epochs, but I tend to find most historical analogies misleading - when not just wrong. 
+I am unsure about the usefulness of these analogies, even though history has always been one of my favourite subjects at school and I am still a voracious consumer of history books and documentaries. Certain patterns do re-emerge in different epochs, but I tend to find most historical analogies misleading - when not just wrong. 
 
 ## From universal to narrow 
  
