@@ -2,7 +2,7 @@
 
 # Site settings
 title: The Hiding Hand               # used for the html title of every page
-desc: Writing as a way to think
+desc: Writings in discovery mode
 
 url: http://www.thehidinghand.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
