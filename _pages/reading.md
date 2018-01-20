@@ -4,6 +4,7 @@ title: Reading
 subtitle: Reading
 desc:
 permalink: /reading/
+image: /assets/img/logoeye.png
 ---
 
 <div class="pretty-links">

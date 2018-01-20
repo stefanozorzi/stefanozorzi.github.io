@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: About me
-desc: About me
+title: About
+subtitle: About
+desc: About
 permalink: /about/
+image: /assets/img/logoeye.png
 ---
 
 <div class="pretty-links">
