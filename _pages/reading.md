@@ -25,6 +25,7 @@ image: /assets/img/logoeye.png
 - Ariel Rubinstein, *Economic Fables*
 - Nassim Taleb, *Antifragile* 
 - Chris Voss, *[Never Split The Difference](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494)*
+- Scott Adams, *[Win Bigly](https://www.amazon.co.uk/Win-Bigly-Persuasion-World-Matter/dp/0735219710)*
 
 ### Now reading (slow track)
 
@@ -39,7 +40,7 @@ image: /assets/img/logoeye.png
 
 - Edmund Phelbs, *[The Dynamism of Nations (Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2963105)*
 - Isaiah Berlin, *[The Hedgehog And The Fox](https://www.amazon.co.uk/Hedgehog-Fox-Essay-Tolstoys-History/dp/1780228422)*
-- Alvise Zorzi, *The Republic Of t´The Lion: a history of Venice*
+- Alvise Zorzi, *The Republic Of The Lion: a history of Venice*
 - Svetlana Boym, *[The Future of Nostalgia](https://www.amazon.co.uk/Future-Nostalgia-Svetlana-Boym/dp/0465007082)*
 - Karl Popper, [*Conjectures and Refutations*](https://www.amazon.co.uk/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941/)
 - Italo Calvino, *[Six Memos for the Next Millenium](https://www.amazon.com/Memos-Millennium-Penguin-Modern-Classics/dp/014118969X)*
