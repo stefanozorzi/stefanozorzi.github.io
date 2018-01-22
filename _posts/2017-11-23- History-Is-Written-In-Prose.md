@@ -3,7 +3,7 @@ layout: post
 title:  "History Is Written In Prose"
 description: "Historical analogies are everywhere around us. Open a newspaper these days and you will find: Trump and Brexit compared to the rise of fascism in the 20’s and 30’s, the bitcoin run compared to the dotcom bubble - and the tulip bubble, or any other bubble before that - the AI revolution compared to the electrical revolution, Tesla vs Bigcar compared to Apple vs. Nokia, and many others. "
 date:   2017-11-23 15:57:53 +0200
-categories: long
+categories:
 image: /assets/img/logoeye.png
 excerpt_separator: 
 ---
