@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Lifecycle of Software Objects by Ted Chiang"
-description: 
+description: "There is something more in the realisation that software objects tend to have shorter lifecycles than animated ones. In certain ways, software is losing some of its super-power in the effort to be humanised."
 date:   2018-02-18 12:57:53 +0200
 categories:
 image: /assets/img/logoeye.png
