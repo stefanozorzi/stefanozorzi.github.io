@@ -24,4 +24,4 @@ Now that they have established a relationship with their digients, Ana and Derek
 
 ---
 
-[^1]:	Just as I was reading this story, I head about Lux Capital’s Josh Wolfe [interest in animal cognition](https://www.reddit.com/r/IAmA/comments/61tzj1/hi_were_josh_peter_and_sam_josh_and_peter_are/dfhciui/)
+[^1]:	Just as I was reading this story, I heard about Lux Capital’s Josh Wolfe [interest in animal cognition](https://www.reddit.com/r/IAmA/comments/61tzj1/hi_were_josh_peter_and_sam_josh_and_peter_are/dfhciui/)
