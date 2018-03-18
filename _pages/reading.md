@@ -2,7 +2,7 @@
 layout: page
 title: Reading
 subtitle: Reading
-desc:
+desc: 
 permalink: /reading/
 image: /assets/img/logoeye.png
 ---
