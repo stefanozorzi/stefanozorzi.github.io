@@ -15,10 +15,8 @@ People living within a stable period tend to find it difficult, if not impossibl
 
 In her _Technological Revolutions and Financial Capital_, Carlota Perez dedicates one of the closing chapters - the one most people seem to skip - to the political context accompanying each new technology wave. As she points out, the installation of a new paradigm breaks apart pre-existing political and ideological groupings. Within each group, “a new line is drawn between those who look back with nostalgia, trying to hold on to past practices and those who embrace the new paradigm and propose new institutions to fit the new conditions”. Understanding, and adapting, to the new political geography is key if we want - as she writes citing Hobsbawm - “prepare for the next war, not for the last”. 
 
-![From _Technological Revolutions and Financial Capital_](/assets/img/perez.jpg "Paradigm shift and political cleavage")
+{% include image.html file="perez.jpg" description="*From Technological Revolutions and Financial Capital.*" %}
 
-{:.image-caption}
-*From Technological Revolutions and Financial Capital*
 
 We are now in one of such periods. Whatever political confrontation we have experienced in the last 70 years, it was primarily - with the inevitable local differences - a clash within a system. What we have in front of us, is a confrontation about which system we will establish next. This observation has profound implications for our willingness to participate and put something at stake in the realm of politics. 
 
