@@ -22,6 +22,9 @@ image: /assets/img/logoeye.png
 
 ### Started this year
 
+- Anthony De Jasay, *[The State](https://www.amazon.co.uk/State-Collected-Papers-Anthony-Jasay/dp/0865971714)
+- Anthony De Jasay, *[Against Politics](https://www.amazon.co.uk/Against-Politics-Routledge-Studies-Political/dp/0415513650)
+- Francis Fukuyama, *[Political Order and Political Decay](https://www.amazon.co.uk/Political-Order-Decay-Industrial-Globalisation/dp/1846684374)
 - Brian Arthur, *[The Nature of Technology: What It Is and How It Evolves](https://www.amazon.com/gp/product/B002ISDCKW)*
 - James C. Scott, *[Against the Grain: A Deep History of the Earliest States](https://www.amazon.com/gp/product/B0747RTP2W)*
 - Albert Hofmann, *[LSD My Problem Child](https://www.amazon.com/gp/product/B075S2LRJ6)*
