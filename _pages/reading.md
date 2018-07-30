@@ -22,6 +22,7 @@ image: /assets/img/logoeye.png
 
 ### Started this year
 
+- Bryan Kaplan, *[The Myth of the Rational Voter](https://www.amazon.co.uk/Myth-Rational-Voter-Democracies-Policies/dp/0691138737)*
 - Anthony De Jasay, *[The State](https://www.amazon.co.uk/State-Collected-Papers-Anthony-Jasay/dp/0865971714)*
 - Anthony De Jasay, *[Against Politics](https://www.amazon.co.uk/Against-Politics-Routledge-Studies-Political/dp/0415513650)*
 - Francis Fukuyama, *[Political Order and Political Decay](https://www.amazon.co.uk/Political-Order-Decay-Industrial-Globalisation/dp/1846684374)*
