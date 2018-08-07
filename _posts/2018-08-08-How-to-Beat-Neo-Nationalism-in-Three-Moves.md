@@ -10,7 +10,7 @@ excerpt_separator:
 ---
 Immigration is without doubts the most contentious political topic of the present. Most countries in Europe have large parties which make their opposition to immigration the main point of their political program. Some of them are in power and even where they are not they are able to set the agenda, forcing all other parties to play what often becomes a chasing game aimed at proving the electorate that they too are “tough on immigration”. 
 
-A lot of people who ideally don’t share these views are surprised, often shocked, by how widely diffused anti-immigration sentiments are in their countries. Many of them are becoming more active to reverse the tide. The range of solutions varies from here-and-now opposition and protests, data and fact-based information campaigns and longer-term plans to win back, or push back, power, often at the cost of offering - at least temporarily, in their hopes - an answer to the “legitimate” fears of the population. 
+A lot of people who ideally don’t share these views are surprised, often shocked, by how widely diffused anti-immigration sentiments are in their countries. Many of them are becoming more active to reverse the tide. The range of solutions varies from here-and-now opposition and protests, data and fact-based information campaigns and longer-term plans to win power back, often at the cost of offering - at least temporarily - an answer to the “legitimate” fears of the population. 
 
 What is missing, is a more fundamental acknowledgement of the root causes of these sentiments. When I tried to spend time thinking about it, the conclusion I have come to is not pretty:
 
@@ -108,7 +108,7 @@ I don’t claim that going beyond the nation-state will be easy. However, it is 
 
 [^1]:	See also: Alonso and Rennwald, [_ The Changing Welfare State Agenda of Populist Radical Right Parties in Europe_ ](https://www.researchgate.net/publication/305619999_The_Changing_Welfare_State_Agenda_of_Populist_Radical_Right_Parties_in_Europe)
 
-[^2]:	See Oskarson and Demker, _[Room for Realignment: The Working-Class Sympathy for Sweden Democrats_](https://www.cambridge.org/core/journals/government-and-opposition/article/room-for-realignment-the-working-class-sympathy-for-sweden-democrats/5F7EC10B46A3BF706B9AD2B975D9729B)
+[^2]:	See Oskarson and Demker, [_Room for Realignment: The Working-Class Sympathy for Sweden Democrats_](https://www.cambridge.org/core/journals/government-and-opposition/article/room-for-realignment-the-working-class-sympathy-for-sweden-democrats/5F7EC10B46A3BF706B9AD2B975D9729B)
 
 [^3]:	I define inclusiveness here as the willingness among the most fortunate members of a community to share resources with its less well-off members - primarily through government-administered redistribution - and, by that, stimulate upward social mobility. 
 
