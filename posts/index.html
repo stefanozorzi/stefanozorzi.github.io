@@ -10,51 +10,51 @@ desc: All Posts
 <div class="lead lead-about"><i>A new home calls for a fresh start. Older posts can be found <a href="http://stefanozorzi.xyz">here.</a></i>
 </div>
 
-{% if paginator.page == 1 %}
+<!-- {% if paginator.page == 1 %}
   {% for post in site.posts limit: 2 %}
 <link rel="prerender" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
   <section class="c-archives">
   {% for post in paginator.posts %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
-    {% if forloop.first %}
-        <h3 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h3>
-        <ul class="post-list">
-    {% endif %}
-
-        <li class="post">
-          
-            <h3 class="entry-title">
-              <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-            </h3>
-            <time class="post-date" datetime="{{ post.date }}">
-            {% assign d = post.date | date: "%-d" %}
-            {% assign m = post.date | date: "%B" %}
-            {% case m %}
-              {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
-              {% when 'September' %}Sept.
-              {% else %}{{ post.date | date: "%b" }}.
-              {% endcase %}
-            {% case d %}
-              {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-            {{ post.date | date: "%Y" }}
-            </time>
-            <!--<p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>-->
-          </a>
-        </li>
-      {% if forloop.last %}
-        </ul>
-      {% else %}
-        {% if this_year != next_year %}
-        </ul>
-        <h3 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h3>
-        <ul class="post-list">
-        {% endif %}
-    {% endif %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+      {% if forloop.first %}
+          <h3 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h3>
+          <ul class="post-list">
+      {% endif %}
+      {% unless post.draft %}
+          <li class="post">
+            
+              <h3 class="entry-title">
+                <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <time class="post-date" datetime="{{ post.date }}">
+              {% assign d = post.date | date: "%-d" %}
+              {% assign m = post.date | date: "%B" %}
+              {% case m %}
+                {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+                {% when 'September' %}Sept.
+                {% else %}{{ post.date | date: "%b" }}.
+                {% endcase %}
+              {% case d %}
+                {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+              {{ post.date | date: "%Y" }}
+              </time>
+              <!--<p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>-->
+            </a>
+          </li>
+        {% endunless %}
+        {% if forloop.last %}
+          </ul>
+        {% else %}
+          {% if this_year != next_year %}
+          </ul>
+          <h3 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h3>
+          <ul class="post-list">
+          {% endif %}
+      {% endif %}
   {% endfor %}
 </section>
 <!-- post-list -->

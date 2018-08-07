@@ -1,5 +1,6 @@
 // TEXT ====================================
 
+
 // TEXT - HEADINGS ------------------
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -47,6 +48,13 @@ small,
 .small {
   font-size: 80%;
   font-weight: normal;
+}
+
+img + em { 
+  font-size: 1rem;
+  line-height: $lh-sm;
+  display: block; 
+  text-align: center;
 }
 
 @include mq-up(md) {

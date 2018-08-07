@@ -11,9 +11,11 @@ layout: default
 </header>
 
 <div class="blog-index page-content">
-    {% for post in site.categories.long offset: 0 limit: 2 %}
-      {% assign content = post.content %}
-  		{% include post_detail.html %}
+    {% for post in site.categories.long offset: 0 limit: 4 %}
+    	{% unless post.draft %}
+      		{% assign content = post.content %}
+  				{% include post_detail.html %}
+  		{% endunless %}
       {% endfor %}
 
 </div>
