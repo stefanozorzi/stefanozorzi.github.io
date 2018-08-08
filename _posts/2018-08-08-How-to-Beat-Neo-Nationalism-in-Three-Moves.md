@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title:  "How to Beat Neo-Nationalism in Three Moves"
 description:
