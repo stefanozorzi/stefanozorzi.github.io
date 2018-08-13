@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "Our New Political Geography"
-description:
+description: 
 date:   2018-03-21 12:57:53 +0200
 categories:
 image: /assets/img/perez.jpg
 excerpt_separator: 
 ---
-Throughout history, the pendulum of political conflict has been swinging between two points: we either fight _about_ society, or we fight _within_ society. 
-  
-When empires advance, or when civilisations clash, the fighting is about what model of the world should dominate. Once the dust settles, the battle moves to what version of the winning model should prevail. That’s where we have been in Europe since the end of  WWII. 
+Throughout history, the pendulum of political conflict has been swinging between two points: we either fight _about_ society, or we fight _within_ society. When empires advance, or when civilisations clash, the fighting is about what model of the world should dominate. Once the dust settles, the battle moves to what version of the winning model should prevail. That’s where we have been in Europe since the end of  WWII. 
 
 People living within a stable period tend to find it difficult, if not impossible, to question the foundations of their world. It usually takes a shock - the encounter with a barbarian civilisation, a new religion, an unexpected visitor from across the sea - to throw us off balance. Lately, technology has often played this role. 
 

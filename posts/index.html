@@ -7,7 +7,7 @@ desc: All Posts
 
 <div class="pretty-links">
 
-<div class="lead lead-about"><i>A new home calls for a fresh start. Older posts can be found <a href="http://stefanozorzi.xyz">here.</a></i>
+<div class="lead lead-about"><i>Older posts can be found <a href="http://stefanozorzi.xyz">here.</a></i>
 </div>
 
 <!-- {% if paginator.page == 1 %}
@@ -42,7 +42,20 @@ desc: All Posts
                 {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
               {{ post.date | date: "%Y" }}
               </time>
-              <!--<p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>-->
+              <p class="post-excerpt">{{ post.excerpt }}</p>
+              {% if post.desc %}{{ post.desc }}{% else %}
+ {% capture content_words %} 
+      {{ post.content | number_of_words }} 
+    {% endcapture %} 
+    {% capture excerpt_words %} 
+      {{ post.excerpt | number_of_words }} 
+    {% endcapture %} 
+    {% endif %}
+    {% if excerpt_words != content_words %}
+    <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Continue reading <i class="fa fa-arrow-circle-right"></i></a>
+    </p>
+    {% endif %}
+              <!-- <p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>--> 
             </a>
           </li>
         {% endunless %}

@@ -9,8 +9,8 @@ image: /assets/img/logoeye.png
 
 <div class="pretty-links">
 
-<div class="lead lead-about"><i>I enjoy looking at the "reading" section on other people's blogs. It is like browsing a stranger's library, you always find something surprising.</i>
-</div>
+<!--<div class="lead lead-about"><i>I enjoy looking at the "reading" section on other people's blogs. It is like browsing a stranger's library, you always find something surprising.</i>
+</div>-->
 
 <!--{::nomarkdown}
 <figure class="site-profile">
