@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "A Not-So-Fictional Threat to Democracy"
-description: 
+description: What if the biggest threat for democracy came from a place where we expect it the least?
 date:   2017-01-01 21:42:53 +0200
 categories: long
-image: 
+image: /assets/img/logoeye.png
 ---
 
 Many people today believe that democracy is at risk. Trump’s victory in the US presidential election, the UK “Brexit” vote (and its aftermath), the shadow of Marine Le Pen in France and the general rise of populist movements across Europe, are taken as signs that support for traditional liberal democratic values is declining. [Other data points seem to suggest a similar trend.][1]
