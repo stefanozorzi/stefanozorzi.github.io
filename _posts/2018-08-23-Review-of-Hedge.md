@@ -17,7 +17,7 @@ I won’t spend time giving a full summary of the book. I recommend everybody to
 
 ## A jammed growth engine 
 
-Opening any newspaper today, we find a worrying consensus about the causes of the current state of crisis: indiscriminate openness to trade, blind faith in technology, and a long series of financial excesses. All this often described as the “natural” outcome of a capitalist system left unchecked. A similar consensus exists around solutions: from the all-out populism of Trump and the recently-formed Italian government to the mild-populism of most social democratic parties around Europe, everybody is promising to reign in the (evil) markets, and to take action to protect those who are squeezed by them. 
+Opening any newspaper today, we find a worrying consensus about the causes of the current state of crisis: indiscriminate openness to trade, blind faith in technology, and a long series of financial excesses. All this often described as the “natural” outcome of a capitalist system left unchecked. A similar consensus exists around solutions: from the all-out populism of Trump and the recently-formed Italian government to the mild-populism of most socialdemocratic parties around Europe, everybody is promising to reign in the (evil) markets, and to take action to protect those who are squeezed by them. 
 
 Hedge takes a refreshingly different approach, rejecting superficial explanations and easy scapegoating. The problem with these observations is that they mistake causes with symptoms: “Tackling finance as the cause of our current problems” - Colin writes - “is like prescribing cough drops to someone who’s suffering from lung cancer.” 
 
