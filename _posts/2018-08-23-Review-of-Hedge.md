@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hedge: A Greater Safety Net for the Entrepreneurial Age (book review)"
-description:
+description: "Hedge addresses head-first one of the most critical challenges of our time: how to upgrade our social and economic institutions to make the most out of the current technological transformation and spread its benefits as broadly as possible."
 date:   2018-08-23 12:57:53 +0200
 categories: long
 draft:
