@@ -4,7 +4,7 @@ title:  "Hedge: A Greater Safety Net for the Entrepreneurial Age (book review)"
 description:
 date:   2018-08-23 12:57:53 +0200
 categories: long
-draft: true
+draft:
 image: 
 ---
 With _Hedge: A Greater Safety Net for the Entrepreneurial Age_, Nicolas Colin has written a much-needed book. In it, he addresses head-first one of the most critical challenges of our time: how to upgrade our social and economic institutions to make the most out of the current technological transformation and spread its benefits as broadly as possible.
