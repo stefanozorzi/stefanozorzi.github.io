@@ -7,7 +7,7 @@ categories: long
 draft:
 image: /assets/img/logoeye.png
 ---
-With _Hedge: A Greater Safety Net for the Entrepreneurial Age_, Nicolas Colin has written a much-needed book. In it, he addresses head-first one of the most critical challenges of our time: how to upgrade our social and economic institutions to make the most out of the current technological transformation and spread its benefits as broadly as possible.
+With [_Hedge: A Greater Safety Net for the Entrepreneurial Age_](https://hedgethebook.com/), Nicolas Colin has written a much-needed book. In it, he addresses head-first one of the most critical challenges of our time: how to upgrade our social and economic institutions to make the most out of the current technological transformation and spread its benefits as broadly as possible.
 
 Despite what the title might tell, Hedge is much more than a book about the welfare state and how to upgrade it to deal with the externalities of a fast-moving economy. As Nicolas Colin himself makes clear, a Great Safety Net (in capital letters) goes beyond a collection of measures to catch people when they fall off the system. What it means instead, is what Carlota Perez calls a “socio-institutional framework”[^1]:  the combination of institutions, social norms, and regulations that define how people, businesses and government interact with each other. Only when this is aligned with the dominant techno-economic paradigm, a society can enter _“ a period marked by the redistribution of wealth to the many, the massive creation of jobs, and widespread prosperity”_.  
 
