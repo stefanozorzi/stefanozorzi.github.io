@@ -4,10 +4,11 @@ title:  "How to Beat Neo-Nationalism in Three Moves"
 description:
 date:   2018-08-07 12:57:53 +0200
 categories: long
-draft: true
-image: 
+draft: 
+image: /assets/img/logoeye.png
 excerpt_separator: 
 ---
+
 Immigration is without doubts the most heated political topic of the present. Most countries in Europe have large parties which make their opposition to immigration the main point of their political program. Some of them are in power and even where they are not they are able to set the agenda, forcing all other parties to play chase to prove the electorate that they too are “tough on immigration.” 
 
 A lot of people who ideally don’t share these views are surprised, often shocked, by how widely diffused anti-immigration sentiments are in their countries. Many of them are ready to take part in the effort to reverse the trend. The range of solutions varies from here-and-now opposition and protests, data and fact-based information campaigns and longer-term plans to win power back, often at the cost of offering - at least temporarily - an answer to the “legitimate” fears of the population. 
