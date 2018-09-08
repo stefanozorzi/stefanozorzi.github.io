@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Beat Neo-Nationalism in Three Moves"
 description:
-date:   2018-08-07 12:57:53 +0200
+date:   2018-09-08 08:57:53 +0200
 categories: long
 draft: 
 image: /assets/img/logoeye.png
