@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Beat Neo-Nationalism in Three Moves"
+title: "How to Beat Neo-Nationalism in Three Moves"
 description: "Faced by migratory pressure, any political community that is democratic, redistributive and where citizenship rests on nationality is bound to adopt ugly anti-immigrant policies eventually. The good news? We can solve the problem by removing, at least, one. "
 date:   2018-09-08 08:57:53 +0200
 categories: long
