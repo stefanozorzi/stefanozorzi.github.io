@@ -22,6 +22,13 @@ image: /assets/img/logoeye.png
 
 ### Started this year
 
+- Hannah Arendt, *[The Origins of Totalitarianism](https://www.amazon.com/gp/product/B0010BA7RE/ref=oh_aui_d_detailpage_o00_aud_?ie=UTF8&psc=1)*
+- William Janeway, *[Doing Capitalism in the Innovation Economy](https://www.amazon.com/gp/product/B07CN49YMS/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)*
+- Edmund Phelps, *[Rewarding Work](https://www.amazon.com/gp/product/B00NYWISSM/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)*
+- Edmund Phelps, *[Mass Fluorishing](https://www.amazon.com/gp/product/B00EIH17I0/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)*
+- Michael Huemer, *[Paradox Lost: Logical Solutions to Ten Puzzles of Philosophy](https://www.amazon.com/gp/product/B07F3QSMMB/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)*
+- E. Posner and G. Wyel, *[Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/gp/product/B0773X7RKB/ref=oh_aui_d_detailpage_o09_?ie=UTF8&psc=1)*
+- Colin, Nicolas, *[Hedge: A Greater Safety Net for the Entrepreneurial Age](https://www.amazon.com/gp/product/B07F717ZTZ/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)* - Review [here](http://www.thehidinghand.com/2018/Review-of-Hedge/)
 - Bryan Kaplan, *[The Myth of the Rational Voter](https://www.amazon.co.uk/Myth-Rational-Voter-Democracies-Policies/dp/0691138737)*
 - Anthony De Jasay, *[The State](https://www.amazon.co.uk/State-Collected-Papers-Anthony-Jasay/dp/0865971714)*
 - Anthony De Jasay, *[Against Politics](https://www.amazon.co.uk/Against-Politics-Routledge-Studies-Political/dp/0415513650)*
