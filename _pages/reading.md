@@ -22,6 +22,11 @@ image: /assets/img/logoeye.png
 
 ### Started this year
 
+- Christopher Lasch *[The True and Only Heaven](https://www.amazon.com/gp/product/B00DI29DLY/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)*
+- Christopher Lasch *[The Revolt of the Elites](https://www.amazon.com/gp/product/B00D8UOBRW/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)*
+- Bradley Tust, *[The Fixer](https://www.amazon.com/gp/product/B079R6QVDR/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)*
+- Roger Eatwell, Matthew Goodwin, *[National Populism, The Revolt Against Liberal Democracy](https://www.amazon.com/gp/product/B07CV45TCM/ref=oh_aui_d_detailpage_o09_?ie=UTF8&psc=1)*
+- Christopher Lasch, *[The Culture of Narcissism](https://www.amazon.com/Culture-Narcissism-American-Diminishing-Expectations-ebook/dp/B00DI29D82/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)*
 - Hannah Arendt, *[The Origins of Totalitarianism](https://www.amazon.com/gp/product/B0010BA7RE/ref=oh_aui_d_detailpage_o00_aud_?ie=UTF8&psc=1)*
 - William Janeway, *[Doing Capitalism in the Innovation Economy](https://www.amazon.com/gp/product/B07CN49YMS/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)*
 - Edmund Phelps, *[Rewarding Work](https://www.amazon.com/gp/product/B00NYWISSM/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)*
