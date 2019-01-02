@@ -65,4 +65,5 @@ exclude:
   - vendor
 plugins:
   - jekyll-paginate
+  - jekyll-feed
 
