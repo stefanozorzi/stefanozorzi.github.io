@@ -2,7 +2,7 @@
 layout: post
 title: "Nationalism and the Tech Community"
 description: "There are two layers of nationalism today. An outer one, with its ugly slogans and self-damaging policies, and an inner one, which is putting forward questions and claims that are genuine and legitimate. Dealing with the latter is a necessary step if we want to fend off the former."
-date:   2019-01-02 08:57:53 +0200
+date:   2019-01-02 07:57:53 +0200
 categories: long
 draft:
 image: /assets/img/pacte.jpg
