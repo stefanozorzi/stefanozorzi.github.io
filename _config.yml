@@ -10,6 +10,7 @@ url: http://www.thehidinghand.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 title_image: "/assets/img/logoeye.png"
+enforce_ssl: thehidinghand.com
 
 # Meta settings
 email: sfnzrz@gmail.com 
