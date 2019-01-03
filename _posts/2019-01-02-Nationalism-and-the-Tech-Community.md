@@ -23,7 +23,7 @@ Speaking on the 100th anniversary of WWI armistice day, France’s President Mac
 
 A better approach is to look at this phenomenon from a more objective point of view. Nationalism is first and foremost an ideology.  Or more precisely, as historian Elie Kedourie put it, a doctrine. The doctrine, born in Europe in the 19th century claims that  “humanity is naturally divided into nations, that nations are known by certain characteristics which can be ascertained, and that the only legitimate type of government is national self-government. In other words, nationalism supplies a criteria - the nation - for how humanity should be organised and for the legitimate exercise of political power.” 
 
-![Frederik Sorrieu's _La République Universelle, Démocratique et Sociale (Le Pact)_ illustrates the national dimention of People's Spring of 1848 ](/assets/img/pacte.jpg "New Danes")*Frederik Sorrieu's La République Universelle, Démocratique et Sociale (Le Pact) illustrates the national dimention of People's Spring of 1848.*
+![Frederic Sorrieu's _La République Universelle, Démocratique et Sociale (Le Pact)_ illustrates the national dimention of People's Spring of 1848 ](/assets/img/pacte.jpg "New Danes")*Frederic Sorrieu's La République Universelle, Démocratique et Sociale (Le Pact) illustrates the national dimention of People's Spring of 1848.*
 
 In the 19th century, nationalism spread like wildfire. Independence movements everywhere started demanding the break-up of larger empires, reclaiming territories and cleaning-up minorities as part of the the nation-building process. 
 
