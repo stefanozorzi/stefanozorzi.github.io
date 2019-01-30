@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Democracy Is a Bad Winner"
-description: 
+description: "Peter Thiel is teaching a new course this winter quarter at Stanford on “Sovereignty and the Limits of Globalisation and Technology” a theme—as you can tell from my reading list and latest posts—which is also a lot on my mind lately."
 date: 2019-01-30 07:57:53 +0200
 categories: 
 draft:
