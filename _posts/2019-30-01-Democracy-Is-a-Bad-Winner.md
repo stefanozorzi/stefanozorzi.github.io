@@ -5,8 +5,8 @@ description:
 date: 2019-01-30 07:57:53 +0200
 categories: 
 draft:
-image: 
-excerpt\_separator: 
+image: /assets/img/logoeye.png
+excerpt_separator: 
 ---
 
 Peter Thiel is teaching a new course this winter quarter at Stanford on “Sovereignty and the Limits of Globalisation and Technology” a theme—as you can tell from my reading list and latest posts—which is also a lot on my mind lately. The syllabus, and in particular the suggested readings, look great, and so I decided to read along and write down my reflections. This is the first post. 
