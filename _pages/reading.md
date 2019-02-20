@@ -19,8 +19,16 @@ image: /assets/img/logoeye.png
 {:/}-->
 
 ---
-
 ### Started this year
+
+- Carl Schmitt *[Land and Sea: A World-Historical Meditation](https://www.amazon.com/gp/product/B01DPP0JGQ/ref=oh_aui_d_asin_title_o01_?ie=UTF8&psc=1)*
+- Leo Strauss *[On Tyranny](https://www.amazon.com/gp/product/B00GPIVF4G/ref=oh_aui_d_asin_title_o02_?ie=UTF8&psc=1)*
+- Cixin Liu *[The Three-Body Problem](https://www.amazon.com/gp/product/B015DFOYQM/ref=oh_aui_d_asin_title_o03_aud_?ie=UTF8&psc=1)*
+- Carl Schmitt *[The Concept of the Political: Expanded Edition](https://www.amazon.com/gp/product/B004HO5JEM/ref=oh_aui_d_asin_title_o04_?ie=UTF8&psc=1)*
+- Karl Löwith *[Meaning in History: The Theological Implications of the Philosophy of History](https://www.amazon.com/gp/product/B00GY00MLC/ref=oh_aui_d_asin_title_o05_?ie=UTF8&psc=1)*
+- Kishore Mahbubani *[Has the West Lost It?: A Provocation](https://www.amazon.com/gp/product/B076B9CPZB/ref=oh_aui_d_asin_title_o07_?ie=UTF8&psc=1)*
+
+### Started in 2018
 
 - Christopher Lasch *[The True and Only Heaven](https://www.amazon.com/gp/product/B00DI29DLY/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)*
 - Christopher Lasch *[The Revolt of the Elites](https://www.amazon.com/gp/product/B00D8UOBRW/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)*
