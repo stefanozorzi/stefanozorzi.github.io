@@ -2,7 +2,7 @@
 layout: page
 title: Reading
 subtitle: Reading
-desc: 
+desc: "Keeping track of what I read"
 permalink: /reading/
 image: /assets/img/logoeye.png
 ---
@@ -21,6 +21,19 @@ image: /assets/img/logoeye.png
 ---
 ### Started this year
 
+- Dogen, *[How to Cook Your Life: From the ZEN Kitchen to Enlightenment](https://www.amazon.co.uk/gp/product/1590302915)*
+- Peter Turchi, *[Maps of the Imagination: The Writer as Cartographer](https://www.amazon.co.uk/gp/product/1595340416)*
+- Hayek, F. A., *[The Road to Serfdom](https://www.amazon.co.uk/gp/product/0415253896)*
+- Keith Johnstone, *[Impro for Storytellers: Theatresports and the Art of Making Things Happen](https://www.amazon.co.uk/gp/product/0571190995)*
+- Benoit B. Mandelbrot, *[The (Mis)Behaviour of Markets: A Fractal View of Risk, Ruin and Reward](https://www.amazon.co.uk/gp/product/1846682622)*
+- Jon Krakauer, *[Into Thin Air](https://www.amazon.co.uk/Into-Thin-Air-Jon-Krakauer/dp/1447200187)*
+- Stephen King, *[The Shining](https://www.amazon.co.uk/Shining-Stephen-King/dp/1444720724)*
+- Stephen King, *[On Writing: A Memoir of the Craft](https://www.amazon.co.uk/Writing-Memoir-Craft-Stephen-King/dp/1444723251)*
+- Phil Knight, *[Shoe Dog: A Memoir by the Creator of NIKE](https://www.amazon.co.uk/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146723)*
+- Robert Kurson, *[Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon](https://www.amazon.co.uk/Rocket-Men-Odyssey-Astronauts-Journey/dp/0812988701)*
+- Michael Huemer, *[The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.amazon.com/gp/product/B00AINH80O/)*
+- Antony Beevor, *[Berlin: The Downfall: 1945](https://www.amazon.co.uk/Berlin-Downfall-1945-Antony-Beevor/dp/0141032391)*
+- Charles C. Mann, *[1491: New Revelations of the Americas Before Columbus](https://www.amazon.co.uk/1491-Revelations-Americas-Columbus-Vintage/dp/1400032059)*
 - Martin Gurri, *[The Revolt of The Public and the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium-ebook/dp/B07J2V3PG4/ref=sr_1_1?ie=UTF8&qid=1550837738&sr=8-1&keywords=martin+gurri)*
 - Carl Schmitt, *[Land and Sea: A World-Historical Meditation](https://www.amazon.com/gp/product/B01DPP0JGQ/ref=oh_aui_d_asin_title_o01_?ie=UTF8&psc=1)*
 - Leo Strauss, *[On Tyranny](https://www.amazon.com/gp/product/B00GPIVF4G/ref=oh_aui_d_asin_title_o02_?ie=UTF8&psc=1)*
