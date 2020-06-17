@@ -9,7 +9,7 @@ image:
 excerpt_separator: 
 ---
 
-I recently came across a paper with the captivating title [“The Entropic Brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs”](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full), via Micheal Pollen’s book “How To Grow Your Mind”. 
+I recently came across a paper with the captivating title [“The Entropic Brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs”](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full), via Micheal Pollan’s book “How To Grow Your Mind”. 
 
 The authors (a team of brain scientists, neuropsychiatrists, and neuropharmacologists from Imperial College and other institutions) advance what they call “a new theory of conscious states” based on the concept of entropy.  According to the presented “entropic brain hypothesis”,  different mental states can be classified along a continuum going from high to low entropy. Following the evolutionary approach originally promoted by Freud, they argue that the human mind “has evolved to process the environment as precisely as possible … so that surprise and uncertainty (i.e., entropy) are minimised”. Suppressing entropy, they continue, “serves to promote realism, foresight, careful reflection and an ability to recognise and overcome wishful and paranoid fantasies.”
 
