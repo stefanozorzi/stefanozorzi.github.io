@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entropy: In The Brain And In Society"
+title: "Defending Entropy: In The Brain And In Society"
 description: ""
 date: 2020-06-17 07:57:53 +0200
 categories: 
