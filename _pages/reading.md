@@ -19,8 +19,22 @@ image: /assets/img/logoeye.png
 {:/}-->
 
 ---
-### Started this year
+### Started in 2019
 
+- Roland Hunford, *[Race for the South Pole](https://www.amazon.com/Race-for-South-Pole-audiobook/dp/B00KAG9FE)*
+- Gitta Sereny, *[Albert Speer: His battle with truth](https://www.amazon.co.uk/gp/product/0330346970)*
+- Gitta Sereny, *[The German Trauma](https://www.amazon.co.uk/gp/product/0140292632)*
+- Robert Caro, *[The Path to Power: The Years of Lyndon Johnson (Volume 1)](https://www.amazon.co.uk/gp/product/0712698795)*
+- Tobias Straumann, *[1931: Debt, Crisis, and the Rise of Hitler](https://www.amazon.com/1931-Debt-Crisis-Rise-Hitler-ebook/dp/B07L5Q4Q5G)*
+- Anthony Bevor, *[Stalingrad](https://www.amazon.com/Stalingrad-Antony-Beevor-25-Apr-1998-Hardcover/dp/B011T7BS4O)*
+- Margaret Thatcher, *[The Autobiography](https://www.amazon.com/Margaret-Thatcher-Autobiography/dp/0062012347)*
+- Robert Caro, *[Working](https://www.amazon.com/Working-Robert-A-Caro-audiobook/dp/B07PMF962J)*
+- Maria Arana, *[Bolivar: American Libertador](https://www.amazon.com/Bolivar-Marie-Arana-audiobook/dp/B00DLJEO68)*
+- Bruno Leoni, *[Freedom and the law](https://www.amazon.co.uk/gp/product/0865970971)*
+- Gabriel Garcia Marquez, *[El General en su laberinto](https://www.amazon.co.uk/gp/product/8497592387)*
+- Ayn Rand, *[Anthem](https://www.amazon.co.uk/gp/product/1984922963)*
+- Peter Zeihan, *[The Absent Superpower](https://www.amazon.co.uk/gp/product/099850520X)*
+- Montague Kobbe, *[Crude Words: Contemporary Writing from Venezuela 2016](https://www.amazon.co.uk/gp/product/0992916127)*
 - Dogen, *[How to Cook Your Life: From the ZEN Kitchen to Enlightenment](https://www.amazon.co.uk/gp/product/1590302915)*
 - Peter Turchi, *[Maps of the Imagination: The Writer as Cartographer](https://www.amazon.co.uk/gp/product/1595340416)*
 - Hayek, F. A., *[The Road to Serfdom](https://www.amazon.co.uk/gp/product/0415253896)*
