@@ -7,11 +7,11 @@ layout: default
 </div>
 <hr>
 <header class="page-header">
-  <h3 class="page-title">Recent long-form </h3>
+  <h3 class="page-title">Long-form</h3>
 </header>
 
 <div class="blog-index page-content">
-    {% for post in site.categories.long offset: 0 limit: 4 %}
+    {% for post in site.categories.long offset: 0 limit: 10 %}
     	{% unless post.draft %}
       		{% assign content = post.content %}
   				{% include post_detail.html %}
